@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<employees>
+	<employee>
+		<name>Upendra Roul</name>
+		<position>Software Developer</position>
+		<joinyear>2010</joinyear>
+		<salary>6000</salary>
+	</employee>
+	<employee>
+		<name>Upendra Roul</name>
+		<position>Software Developer</position>
+		<joinyear>2010</joinyear>
+		<salary>6000</salary>
+	</employee>
+	<employee>
+		<name>Upendra Roul</name>
+		<position>Software Developer</position>
+		<joinyear>2010</joinyear>
+		<salary>6000</salary>
+	</employee>
+</employees>
+
+
+
+/employees/employee/name
+
+//name
